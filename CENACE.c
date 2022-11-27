@@ -853,7 +853,7 @@ void scoreUpdate()
     if(win == -1)
     {
         CENACEscore += DRAW_REWORD;
-        humanScore += DRAW_REWORD;
+        humanScore +=  DRAW_REWORD;
     }
 }
 
